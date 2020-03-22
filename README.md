@@ -1,5 +1,5 @@
 # Chat-SocketIO
-============
+===============
 Socket.IO enables real-time bidirectional event-based communication, it works on every platform, browser or device, focusing equally on reliability and speed.
 
 ---
